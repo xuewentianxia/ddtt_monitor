@@ -1,0 +1,12 @@
+{
+    "dut_connection": {
+        "master_ip": "127.0.0.1",
+        "username": "rfsw",
+        "password": ""
+    },
+    "dut_params": {
+        "error_bits": [
+            "0x5"
+        ]
+    }
+}
